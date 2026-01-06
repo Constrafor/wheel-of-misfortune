@@ -1,0 +1,47 @@
+[
+    {
+        "ID": "1",
+        "title": "Incident 1",
+        "scenario": "You receive an alert that a Production SQS queue has high oldest message age."
+    },
+    {
+        "ID": "2",
+        "title": "Incident 2",
+        "scenario": "You receive a report that a customer is unable to sign a contract."
+    },
+    {
+        "ID": "3",
+        "title": "Incident 3",
+        "scenario": "After merging a PR, you are notified that the deployment to Develop failed."
+    },
+    {
+        "ID": "4",
+        "title": "Incident 4",
+        "scenario": "A customer reports that their data from an external platform is not syncing to Constrafor."
+    },
+    {
+        "ID": "5",
+        "title": "Incident 5",
+        "scenario": "It is discovered that Constrafor is exposing customer PII through the public API."
+    },
+    {
+        "ID": "6",
+        "title": "Incident 6",
+        "scenario": "You are alerted that backend endpoints are experiencing an elevated error rate."
+    },
+    {
+        "ID": "7",
+        "title": "Incident 7",
+        "scenario": "A specific e2e test is consistently failing."
+    },
+    {
+        "ID": "8",
+        "title": "Incident 8",
+        "scenario": "You need to update to the latest version of Postgres in Production."
+    },
+    {
+        "ID": "9",
+        "title": "Incident 9",
+        "scenario": "Platform data has mistakenly been deleted or overwritten in Production."
+    }
+]
