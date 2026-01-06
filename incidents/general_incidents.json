@@ -2,7 +2,8 @@
     {
         "ID": "1",
         "title": "Incident 1",
-        "scenario": "You receive an alert that a Production SQS queue has high oldest message age."
+        "scenario": "You receive an alert that a Production SQS queue has high oldest message age.",
+        "inkstory": "incidents/sqs-backed-up.json"
     },
     {
         "ID": "2",
